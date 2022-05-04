@@ -11,11 +11,11 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/7SbtKvw.png');
+    --background-image: url('https://i.imgur.com/15vB8tl.jpeg');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
-    --background-solid: #161921;
-    --background-solid-dark: #101218;
-    --background-solid-darker: #0c0e12;
-    --accent: 37, 172, 232;
-    --accent-alt: 29, 101, 134;
+    --background-solid: #363e36;
+    --background-solid-dark: #474941;
+    --background-solid-darker: #55574f;
+    --accent: 171,172,164;
+    --accent-alt: 107,109,100;
 }
