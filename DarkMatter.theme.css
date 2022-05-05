@@ -13,9 +13,8 @@
     --avatar-size: 32px;
     --background-image: url('https://i.imgur.com/15vB8tl.jpeg');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
-    --background-solid: #363e36;
-    --background-solid-dark: #474941;
-    --background-solid-darker: #55574f;
+    --background-solid: linear-gradient(90deg, rgba(207,209,210,1) 0%, rgba(13,21,18,1) 100%);
     --accent: 171,172,164;
     --accent-alt: 107,109,100;
 }
+
